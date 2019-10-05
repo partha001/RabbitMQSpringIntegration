@@ -1,4 +1,4 @@
-package com.partha.rabbitmqex01producer;
+package com.partha.rabbitmq.ex01;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

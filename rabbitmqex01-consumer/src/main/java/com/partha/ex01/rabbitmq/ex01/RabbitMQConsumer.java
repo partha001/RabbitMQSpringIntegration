@@ -1,4 +1,4 @@
-package com.partha.ex01.rabbitmqex01consumer;
+package com.partha.ex01.rabbitmq.ex01;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Service;
